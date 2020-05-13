@@ -20,4 +20,4 @@ This is a download link:
 [File to download](file.txt)
 
 
-:+1:
+emojis don't work on pages :+1: (good)
