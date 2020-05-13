@@ -16,7 +16,7 @@ tar.gz | zip
 OS | Also OS
 
 
-This is a downlaod link:
+This is a download link:
 [File to download](file.txt)
 
 
